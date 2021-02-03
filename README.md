@@ -12,9 +12,9 @@ In this lab you will integrate a static route so that the application will rende
 
 Below are the tasks that you will need to complete in order to finish the lab:
 
-* Integrate a route for `localhost:3000/hello_world`.
+X* Integrate a route for `localhost:3000/hello_world`.
 
-* Create a static controller that inherits from the application controller and contains the `hello_world` action. You can have the call to the view file occur using either the implicit or explicit processes.
+X* Create a static controller that inherits from the application controller and contains the `hello_world` action. You can have the call to the view file occur using either the implicit or explicit processes.
 
 * Create a file in the `views` directory that will be called by the static controller's `hello_world` action, and add the heading `<h1>Hello World</h1>` to the file. The test is case sensitive, so make sure you enter it _exactly_ as shown.
 
